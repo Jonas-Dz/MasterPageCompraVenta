@@ -1,7 +1,7 @@
 <%-- 
     Document   : aside.jsp
     Created on : 05/07/2023
-    Author     : Jonathan Diaz
+    Author     : Jonathan Díaz
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
